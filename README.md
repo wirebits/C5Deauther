@@ -13,8 +13,8 @@ A tool that deauth 2.4GHz and 5GHz Wi-Fi networks via ESP32C5 on serial console.
 >Use those varient which contain atleast `4MB` flash memory.
 
 # 🔧Install
-1. Download `.bin` file from [here](url).
-2. Download `esptool.exe` from [here](url).
+1. Download `.bin` file from [here](https://github.com/wirebits/C5Deauther/releases/download/v1.0/C5Deauther.bin).
+2. Download `esptool.exe` from [here](https://github.com/wirebits/C5Deauther/blob/main/esptool.exe).
 3. Connect board by `UART` port to the computer.
 4. Put both files in a folder.
 5. Open `CMD` in that folder.
