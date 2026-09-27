@@ -1,6 +1,10 @@
 # 🛜C5Deauther
 A tool that deauth 2.4GHz and 5GHz Wi-Fi networks via ESP32C5 on serial console.
 
+# ⚠️WARNING
+- This project is for educational purpose only.
+- Don't use in any illegal way.
+
 # ✨Features
 - Minimal Setup.
 - Simply controlled by Serial Console.
